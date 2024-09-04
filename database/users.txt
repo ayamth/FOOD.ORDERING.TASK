@@ -1,0 +1,11 @@
+id,username,password,age,first_name,last_name,is_loggedin,role
+a2e0a1d4-52dc-4b26-b42e-2fdefbc0c5b5,john_doe,hashed_password,30,John,Doe,False,user
+c8b9e7a6-f23b-4e85-8e72-cd8a7b39e3b2,jane_smith,hashed_password,25,Jane,Smith,False,admin
+e1f7acb6-4b47-4c0b-a7eb-f5b214a6c85e,bob_jones,ha$shed_password,28,Bob,Jones,False,user
+fc63691f-8bc1-4738-a32f-46a1e3c4729d,ayamth,hashed_password,23,aya,maitham,False,admin
+eca2323f-4c9f-448d-9032-6855325c2c10,23,2b$12$dMXg8H6aeAqWKIK46b0GTeKsDbYPy53WoC/4mKsea.wUy9i/4eyQG,maitham,ayamt,12,False,admin
+93d0ce3b-501f-4fb5-88d4-ee4f9e6bd056,ayamm,$2b$12$IafMtoMj50H9EXEJjq2mI.0AhaP8RETFs2JQkuiH1USW2PImdp93.,23,ayaa,mth,False,admin
+da0db4e2-ac40-45d0-b154-1a9276bf6e9c,ahmedd,$2b$12$DYhUyzdjZOxUBxaQzLbmM.lqLhWpcUK2o2Lb0udrOUiNPzIAPODH2,22,ali,ahmed,True,cashier
+4d799098-4749-4eec-a021-6291e683d776,fine,$2b$12$c4aRiIJOZsd.Uv4XKMG41.WIK/vimS1Scg.pPTBcL5ouNv1GX06p2,20,fi,ne,False,cashier
+5cb8e03b-1b44-4a28-b8cb-682893ef7260,ayamth1,$2b$12$PiMP068O8XUgPR1zb6zU9OxYgljQvxt2hDD7IyajVIFvegN36K/Ra,23,aya,maitham,True,admin
+b5084718-3ff2-48ff-ab4d-2a52ecd3bf11,aaaa,$2b$12$abVOMJrtQ58VXVOZVT8Vpeo7Ba46Y8/hJ6XV7ruM0.Jxs0ieVjizW,23,a,a,True,user

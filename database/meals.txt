@@ -1,0 +1,8 @@
+id,name,price
+9a4f334d-550d-4b54-8790-4f799ae5a340,Burger,5.99
+6d4a0f5d-5f5f-4b41-bb15-4e6dc5f9a2d7,Pizza,9.99
+8b3a4c6e-41b8-4c60-bb6a-2c768c7a721e,pesto,10.0
+a95b5d12-41e3-4f5f-9dc9-df7a8c72f817,Pasta,7.49
+5109a0ba-a12a-411f-9085-880a1ef52aea,pasta,30.0
+299054c4-5df7-4964-9618-272fc4daafde,lasagna,30.0
+4700f06b-2da8-41fa-b654-37f3eebde77e,french fries,10.0
